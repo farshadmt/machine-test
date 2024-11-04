@@ -1,0 +1,15 @@
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\Application.deps.json
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\Application.dll
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\ref\Application.dll
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\Application.pdb
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\Core.dll
+D:\Farshad\machinetest\Application\bin\Debug\net5.0\Core.pdb
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.dll
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Farshad\machinetest\Application\obj\Debug\net5.0\Application.pdb
